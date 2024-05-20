@@ -1,0 +1,4 @@
+repository "Grup82@emre44456@cloud"
+  path "/"
+    br "/main"
+    co "/main"
